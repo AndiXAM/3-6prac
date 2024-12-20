@@ -1,0 +1,352 @@
+[
+    {
+        "product_name": "ut ab",
+        "price": 50.71,
+        "category": "distinctio",
+        "stock": 5,
+        "description": "Modi accusantium modi atque ipsam aut et id non qui hic et praesentium molestiae."
+    },
+    {
+        "product_name": "voluptatem qui",
+        "price": 49.12,
+        "category": "maiores",
+        "stock": 75,
+        "description": "Omnis quae officiis ab deleniti dolores et."
+    },
+    {
+        "product_name": "quas vel",
+        "price": 28.37,
+        "category": "tenetur",
+        "stock": 87,
+        "description": "Similique rem pariatur quae sapiente vero facere delectus nostrum animi."
+    },
+    {
+        "product_name": "neque ipsa",
+        "price": 15.22,
+        "category": "sequi",
+        "stock": 34,
+        "description": "Eos aut ipsam nam dolor recusandae dolorem nulla dolor consequatur."
+    },
+    {
+        "product_name": "minus laboriosam",
+        "price": 13.28,
+        "category": "quibusdam",
+        "stock": 87,
+        "description": "Maxime quae ut tempora eum distinctio quia enim a velit."
+    },
+    {
+        "product_name": "autem sunt",
+        "price": 31.27,
+        "category": "soluta",
+        "stock": 28,
+        "description": "Quas ut non laboriosam ratione labore vitae voluptatem corporis."
+    },
+    {
+        "product_name": "itaque ut",
+        "price": 8.14,
+        "category": "repellat",
+        "stock": 72,
+        "description": "Deleniti sapiente dolor sunt aut dolorem esse vel repellat."
+    },
+    {
+        "product_name": "a veniam",
+        "price": 32.56,
+        "category": "numquam",
+        "stock": 78,
+        "description": "Est consequatur laboriosam molestiae labore qui quod."
+    },
+    {
+        "product_name": "tenetur quis",
+        "price": 75.16,
+        "category": "est",
+        "stock": 2,
+        "description": "Rerum consequatur ut aut voluptas voluptatibus sint velit cupiditate et quidem quam omnis."
+    },
+    {
+        "product_name": "quae quis",
+        "price": 20.73,
+        "category": "quia",
+        "stock": 99,
+        "description": "Esse aliquid est consequatur perferendis autem sint itaque velit similique voluptatibus quia ea sequi."
+    },
+    {
+        "product_name": "blanditiis dolorem",
+        "price": 45.99,
+        "category": "rerum",
+        "stock": 29,
+        "description": "Et quae sit saepe nobis magni dolore ullam sit eum atque quas qui."
+    },
+    {
+        "product_name": "ipsam quibusdam",
+        "price": 49.71,
+        "category": "natus",
+        "stock": 36,
+        "description": "Saepe consequuntur molestiae molestiae necessitatibus omnis omnis voluptatem soluta odio fugiat."
+    },
+    {
+        "product_name": "occaecati et",
+        "price": 6.65,
+        "category": "hic",
+        "stock": 0,
+        "description": "Iusto a iure aliquid pariatur quibusdam autem optio optio ea similique voluptatum eos."
+    },
+    {
+        "product_name": "eos provident",
+        "price": 54.73,
+        "category": "maxime",
+        "stock": 28,
+        "description": "Sequi qui iusto excepturi qui odit velit a ut voluptate."
+    },
+    {
+        "product_name": "hic aut",
+        "price": 74.14,
+        "category": "perferendis",
+        "stock": 67,
+        "description": "Eos repellat nemo vel asperiores aut ea."
+    },
+    {
+        "product_name": "unde repudiandae",
+        "price": 63.62,
+        "category": "laudantium",
+        "stock": 92,
+        "description": "Voluptas perferendis expedita iste omnis neque reiciendis culpa."
+    },
+    {
+        "product_name": "deserunt quo",
+        "price": 97.31,
+        "category": "non",
+        "stock": 97,
+        "description": "Error optio illum et repudiandae explicabo illo."
+    },
+    {
+        "product_name": "occaecati quod",
+        "price": 49.15,
+        "category": "aut",
+        "stock": 69,
+        "description": "Omnis quod sequi aut cumque ut et et id illum quam."
+    },
+    {
+        "product_name": "atque non",
+        "price": 12.53,
+        "category": "nihil",
+        "stock": 41,
+        "description": "Omnis voluptatum cumque consequatur consectetur possimus libero nihil nam sunt minima aut dolorum doloremque."
+    },
+    {
+        "product_name": "repellat maxime",
+        "price": 41.91,
+        "category": "odit",
+        "stock": 47,
+        "description": "Eum voluptatem soluta officiis sapiente soluta rerum saepe ad."
+    },
+    {
+        "product_name": "accusantium in",
+        "price": 29.27,
+        "category": "omnis",
+        "stock": 27,
+        "description": "Est vel quibusdam eos occaecati ipsa fugit placeat ut libero voluptates."
+    },
+    {
+        "product_name": "aut dicta",
+        "price": 61.71,
+        "category": "natus",
+        "stock": 60,
+        "description": "Adipisci fugit ab illum ratione molestias harum atque cum in veniam."
+    },
+    {
+        "product_name": "est vitae",
+        "price": 36.83,
+        "category": "quia",
+        "stock": 94,
+        "description": "Omnis excepturi enim animi laboriosam eaque et quia nihil eum dignissimos praesentium eos in."
+    },
+    {
+        "product_name": "at consequatur",
+        "price": 75.03,
+        "category": "ratione",
+        "stock": 41,
+        "description": "Quod laborum cupiditate quaerat et similique aperiam quo et eius et."
+    },
+    {
+        "product_name": "officia quia",
+        "price": 65.3,
+        "category": "rerum",
+        "stock": 54,
+        "description": "Illo consequatur ipsum aut id possimus quisquam."
+    },
+    {
+        "product_name": "quae tempora",
+        "price": 95.56,
+        "category": "incidunt",
+        "stock": 47,
+        "description": "Delectus eaque sint impedit natus quia deleniti amet odit vero cum pariatur sed."
+    },
+    {
+        "product_name": "autem unde",
+        "price": 50.72,
+        "category": "ut",
+        "stock": 33,
+        "description": "Non qui cupiditate cum quis non consequatur quis."
+    },
+    {
+        "product_name": "asperiores qui",
+        "price": 28.04,
+        "category": "est",
+        "stock": 99,
+        "description": "Sint aliquam atque numquam quod nihil et laudantium ut."
+    },
+    {
+        "product_name": "eius qui",
+        "price": 98.69,
+        "category": "velit",
+        "stock": 93,
+        "description": "Odit quo aliquam atque sit voluptatum ut ut."
+    },
+    {
+        "product_name": "rerum tempora",
+        "price": 58.59,
+        "category": "nisi",
+        "stock": 65,
+        "description": "Qui et veritatis rerum sed ex inventore explicabo rerum ut id et."
+    },
+    {
+        "product_name": "ut voluptatem",
+        "price": 20.79,
+        "category": "id",
+        "stock": 53,
+        "description": "Nihil labore rerum ea architecto qui et eum saepe voluptas."
+    },
+    {
+        "product_name": "enim et",
+        "price": 22.41,
+        "category": "est",
+        "stock": 98,
+        "description": "A eius tempore quia eligendi odio officia."
+    },
+    {
+        "product_name": "vel illum",
+        "price": 17.8,
+        "category": "tempore",
+        "stock": 32,
+        "description": "Repudiandae amet et quae qui rem eos inventore."
+    },
+    {
+        "product_name": "et perspiciatis",
+        "price": 14.69,
+        "category": "saepe",
+        "stock": 14,
+        "description": "Quia id sit officiis quis dolorem voluptatum."
+    },
+    {
+        "product_name": "voluptas voluptas",
+        "price": 70.21,
+        "category": "illo",
+        "stock": 84,
+        "description": "Magni maxime dolor aliquid placeat sit in consectetur quaerat illum."
+    },
+    {
+        "product_name": "est aut",
+        "price": 11.58,
+        "category": "exercitationem",
+        "stock": 59,
+        "description": "Sit aut quia voluptate eveniet optio accusantium corrupti ea et ad molestiae corrupti."
+    },
+    {
+        "product_name": "reiciendis assumenda",
+        "price": 51.59,
+        "category": "nihil",
+        "stock": 82,
+        "description": "Enim voluptate dolorem eum voluptatem eos ea sunt."
+    },
+    {
+        "product_name": "illo magnam",
+        "price": 73.25,
+        "category": "reiciendis",
+        "stock": 41,
+        "description": "Ut ab dolorum ut deserunt sint natus eveniet necessitatibus ut non temporibus nihil tempore."
+    },
+    {
+        "product_name": "quidem rerum",
+        "price": 69.07,
+        "category": "voluptatem",
+        "stock": 46,
+        "description": "Consequatur voluptatem praesentium ipsa dolores quia qui officia autem blanditiis quae eius aut recusandae."
+    },
+    {
+        "product_name": "occaecati et",
+        "price": 37.88,
+        "category": "minus",
+        "stock": 20,
+        "description": "Ab odio harum et doloremque dolores quia quis."
+    },
+    {
+        "product_name": "voluptate maxime",
+        "price": 52.52,
+        "category": "repudiandae",
+        "stock": 84,
+        "description": "Provident enim magni aut voluptas earum laudantium."
+    },
+    {
+        "product_name": "quis numquam",
+        "price": 21.28,
+        "category": "voluptatem",
+        "stock": 57,
+        "description": "Autem veniam quisquam esse autem aut labore ea minus earum numquam quia."
+    },
+    {
+        "product_name": "adipisci libero",
+        "price": 90.31,
+        "category": "excepturi",
+        "stock": 35,
+        "description": "Et numquam autem neque recusandae modi et ut accusantium quam dolorem suscipit."
+    },
+    {
+        "product_name": "enim eius",
+        "price": 81.73,
+        "category": "et",
+        "stock": 22,
+        "description": "Ad ipsum aliquam dolore sequi rerum eaque natus ut."
+    },
+    {
+        "product_name": "autem cum",
+        "price": 20.34,
+        "category": "et",
+        "stock": 76,
+        "description": "Porro doloribus omnis eius voluptas ullam nobis."
+    },
+    {
+        "product_name": "eos impedit",
+        "price": 44.55,
+        "category": "ab",
+        "stock": 4,
+        "description": "Earum ipsam quo sed at consequuntur nihil vel."
+    },
+    {
+        "product_name": "laboriosam aut",
+        "price": 82.42,
+        "category": "quos",
+        "stock": 28,
+        "description": "Deserunt nihil ipsum nihil necessitatibus error quia."
+    },
+    {
+        "product_name": "asperiores ipsum",
+        "price": 97.77,
+        "category": "nulla",
+        "stock": 13,
+        "description": "Fuga eum repudiandae consequatur sed accusantium in voluptatum non quaerat cum modi quas molestiae."
+    },
+    {
+        "product_name": "consequatur voluptas",
+        "price": 20.72,
+        "category": "minima",
+        "stock": 24,
+        "description": "Ut at iure cupiditate qui suscipit id mollitia debitis maxime quaerat."
+    },
+    {
+        "product_name": "unde occaecati",
+        "price": 62.8,
+        "category": "commodi",
+        "stock": 37,
+        "description": "Sapiente porro consectetur qui sunt et iure culpa iure dicta maxime."
+    }
+]
